@@ -10,7 +10,7 @@ package pkgtry;
  * @author prati
  */
 public class Try {
-private String wt;
+
     /**
      * @param args the command line arguments
      */
