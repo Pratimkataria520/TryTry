@@ -9,12 +9,13 @@ package pkgtry;
  *
  * @author prati
  * @date 20 feb
- * @modify Pratim Kataria
+ * @modified Pratim Kataria
  */
 public class Try {
     
     private String git;
     private int hub;
+    
 
     public int getHub() {
         return hub;
