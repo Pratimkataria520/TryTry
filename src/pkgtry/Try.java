@@ -14,6 +14,15 @@ package pkgtry;
 public class Try {
     
     private String git;
+    private int hub;
+
+    public int getHub() {
+        return hub;
+    }
+
+    public void setHub(int hub) {
+        this.hub = hub;
+    }
 
     public String getGit() {
         return git;
