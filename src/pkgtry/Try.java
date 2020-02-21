@@ -10,7 +10,18 @@ package pkgtry;
  * @author prati
  */
 public class Try {
+    
+    private String git;
 
+    public String getGit() {
+        return git;
+    }
+
+    public void setGit(String git) {
+        this.git = git;
+    }
+
+    
     /**
      * @param args the command line arguments
      */
